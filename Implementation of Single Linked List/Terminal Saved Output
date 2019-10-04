@@ -1,0 +1,252 @@
+Last login: Sun Feb 10 11:56:41 on ttys003
+Kirans-MacBook-Air:~ kirannoolvi$ cd Documents
+Kirans-MacBook-Air:Documents kirannoolvi$ cd Documents\ -\ Kiran’s\ MacBook\ Air/
+Kirans-MacBook-Air:Documents - Kiran’s MacBook Air kirannoolvi$ cd UTD\ Classes/Kirans-MacBook-Air:UTD Classes kirannoolvi$ cd Semester\ 1\(Jan\ 2019\ to\ May\ 2019\)/
+Kirans-MacBook-Air:Semester 1(Jan 2019 to May 2019) kirannoolvi$ cd CS\ 5343\ Algorithm\ Analysis\ and\ Data\ Structures/
+Kirans-MacBook-Air:CS 5343 Algorithm Analysis and Data Structures kirannoolvi$ cd Assignments/
+Kirans-MacBook-Air:Assignments kirannoolvi$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+Kirans-MacBook-Air:Assignments kirannoolvi$ cd Final/
+Kirans-MacBook-Air:Final kirannoolvi$ javac Main.java
+Kirans-MacBook-Air:Final kirannoolvi$ java Main
+LINKED LIST WITH 16 NODES CREATED
+
+Linked list which is not sorted: 
+5 58 79 48 98 30 1 84 21 29 68 33 55 21 53 11 
+
+Linked list after sorting: 
+1 5 11 21 21 29 30 33 48 53 55 58 68 79 84 98 
+
+Kirans-MacBook-Air:Final kirannoolvi$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kirans-MacBook-Air:Final kirannoolvi$ javac Main.java
+Kirans-MacBook-Air:Final kirannoolvi$ java Main
+LINKED LIST WITH 16 NODES CREATED
+
+Linked list which is not sorted: 
+37 12 83 68 30 27 34 83 61 4 62 83 5 18 0 16 
+
+Linked list after sorting: 
+0 4 5 12 16 18 27 30 34 37 61 62 68 83 83 83 
+
+Kirans-MacBook-Air:Final kirannoolvi$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kirans-MacBook-Air:Final kirannoolvi$ javac Main.java
+Kirans-MacBook-Air:Final kirannoolvi$ java Main
+LINKED LIST WITH 16 NODES CREATED
+
+Linked list which is not sorted: 
+17 22 27 14 11 98 46 14 40 24 73 61 93 31 13 13 
+
+Linked list after sorting: 
+11 13 13 14 14 17 22 24 27 31 40 46 61 73 93 98 
+
+Kirans-MacBook-Air:Final kirannoolvi$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kirans-MacBook-Air:Final kirannoolvi$ javac Main.java
+Kirans-MacBook-Air:Final kirannoolvi$ java Main
+LINKED LIST WITH 16 NODES CREATED
+
+Linked list which is not sorted: 
+140 674 209 357 995 810 664 65 40 196 225 244 789 421 457 688 
+
+Linked list after sorting: 
+40 65 140 196 209 225 244 357 421 457 664 674 688 789 810 995 
+
+Kirans-MacBook-Air:Final kirannoolvi$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
